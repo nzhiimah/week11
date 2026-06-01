@@ -165,7 +165,10 @@ Flag : ```THM{number6-is-the-last-one!-DX!}```
 #### Classification & Flag
 <img width="833" height="789" alt="Screenshot 2026-06-01 230922" src="https://github.com/user-attachments/assets/ed7c4ccc-f1b8-40a4-9368-efb07c868be4" />
 
+#### Explanation
+- Typosquatting is especially dangerous because visually similar domains trick users easily — punycode (xn-- variants) can mask non-ASCII lookalike characters, making phishing URLs appear legitimate.
 
+---
 
 
 
